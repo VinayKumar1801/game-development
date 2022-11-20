@@ -194,15 +194,6 @@ const questions = [
         ]
     },
     {
-        question: 'Galileo was an Italian astronomer who',
-        answers: [
-            { text: '6', correct: false },
-            { text: '8', correct: true },
-            { text: '11', correct: false },
-            { text: '16', correct: false },
-        ]
-    },
-    {
         question: 'First human heart transplant operation conducted by Dr. Christiaan Barnard on Louis Washkansky, was conducted in',
         answers: [
             { text: '1968', correct: false },
