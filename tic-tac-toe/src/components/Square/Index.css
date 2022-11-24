@@ -1,0 +1,11 @@
+.square{
+    height: 130px;
+    width: 130px;
+    background-color: white;
+    /* opacity: 1; */
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
